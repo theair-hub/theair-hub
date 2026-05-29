@@ -11,19 +11,12 @@
 
 <br/>
 
-- 🔭 Currently working on [BLOOM - Open Science](https://github.com/open-sci/2025-2026)
-- 👩‍💻 All my projects: [theairhub.my.canva.site](https://theairhub.my.canva.site/)
+- 🔭 Currently working on (1) [BLOOM - Open Science](https://github.com/open-sci/2025-2026), (2) [OpenCitations](https://github.com/theair-hub/oc_internship), (3) [OpenOrtis Digital Edition](https://github.com/theair-hub/OpenOrtis)
+- 👩‍💻 My portfolio: [theairhub.my.canva.site](https://theairhub.my.canva.site/)
 
 ---
 
 ## 📊 Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/theair-hub/theair-hub/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/theair-hub/theair-hub/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theair-hub&theme=default&hide_border=true" alt="streak stats" />
@@ -31,48 +24,35 @@
 
 <br/>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theair-hub&no-frame=true&margin-w=8" alt="theair-hub trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🗂️ Projects
 
-| # | Project | Description | Tech | ⭐ |
-|:-:|---------|-------------|:----:|:--:|
-| 01 | [**Apollonian-Dionysian**](https://github.com/aiMoirai/Apollonian-Dionysian) | Virtual exhibition on the contrast between the Apollonian and the Dionysian | `HTML` `CSS` `JS` | — |
-| 02 | [**ControVerse**](https://github.com/Lyrical-Irony/ControVerse) | An ontology on lyrical irony | `HTML` `LOD` | ★ 2 |
-| 03 | [**VinLOD-Saga**](https://github.com/VinLOD-Saga/VinLOD-Saga) | Linked open data project on the anime & manga Vinland Saga | `HTML` `BOOTSTRAP` `XSLT` `TEI/XML` `CSS`| ★ 1 |
-| 04 | [**Git-Lost**](https://github.com/git-lost-data-science/Git-Lost) | Python pipeline for simultaneous querying across multiple databases | `Python` `SPARQL` `SQL` `SQLITE` `BLAZEGRAPH`| — |
-| 05 | [**The Art of Tea**](https://github.com/the-art-of-tea/The-Art-Of-Tea) | Semantic digital library about tea, built on IIIF & LOD | `HTML` `IIIF` `TEI/XML` `BOOTSTRAP` `CSS` | ★ 1 |
-| 06 | [**ChessQuest**](https://github.com/theair-hub/ChessQuest) | Data visualisation of personal chess data via the chess.com API | `Python` `Jupyter` | — |
-
+| # | Project | Description | Tech |
+|:-:|---------|-------------|:----:|
+| 01 | [**Apollonian-Dionysian**](https://github.com/aiMoirai/Apollonian-Dionysian) | Virtual exhibition on the contrast between the Apollonian and the Dionysian | `HTML` `CSS` `JS` |
+| 02 | [**ControVerse**](https://github.com/Lyrical-Irony/ControVerse) | An ontology on lyrical irony | `HTML` `LOD` |
+| 03 | [**VinLOD-Saga**](https://github.com/VinLOD-Saga/VinLOD-Saga) | Linked open data project on the anime & manga Vinland Saga | `HTML` `BOOTSTRAP` `XSLT` `TEI/XML` `CSS` |
+| 04 | [**Git-Lost**](https://github.com/git-lost-data-science/Git-Lost) | Python pipeline for simultaneous querying across multiple databases | `Python` `SPARQL` `SQL` `SQLITE` `BLAZEGRAPH` |
+| 05 | [**The Art of Tea**](https://github.com/the-art-of-tea/The-Art-Of-Tea) | Semantic digital library about tea, built on IIIF & LOD | `HTML` `IIIF` `TEI/XML` `BOOTSTRAP` `CSS` |
+| 06 | [**ChessQuest**](https://github.com/theair-hub/ChessQuest) | Data visualisation of personal chess data via the chess.com API | `Python` `Jupyter` |
+| 07 | [**RhAPPsody**](https://github.com/3Graces/RhAPPsody) | Interactive app prototype for a music museum | `Figma` `ProtoPie` |
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite" />
-  <img width="8" />
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="40" alt="bootstrap" />
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma" />
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -90,16 +70,12 @@
 
 ---
 
-## 🐍 Contribution Graph
+<div align="center">
+  <sub><i>"Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever."<br>
+― Michael Scott</i></sub>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theair-hub/theair-hub/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theair-hub/theair-hub/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/theair-hub/theair-hub/pacman-output/pacman-contribution-graph.svg" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/theair-hub/theair-hub/snake-output/snake.svg" alt="Snake animation" />
-
+<br/>
 
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
