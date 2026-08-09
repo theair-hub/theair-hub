@@ -37,6 +37,7 @@
 | 05 | [**The Art of Tea**](https://github.com/the-art-of-tea/The-Art-Of-Tea) | Semantic digital library about tea, built on IIIF & LOD | `HTML` `IIIF` `TEI/XML` `BOOTSTRAP` `CSS` |
 | 06 | [**ChessQuest**](https://github.com/theair-hub/ChessQuest) | Data visualisation of personal chess data via the chess.com API | `Python` `Jupyter` |
 | 07 | [**RhAPPsody**](https://github.com/3Graces/RhAPPsody) | Interactive app prototype for a music museum | `Figma` `ProtoPie` |
+| 07 | [**BLOOM**](https://github.com/open-sci/2025-2026) | A curated dataset of citations made to explore and analyse disciplinary flows across universities | `Python` `Jupyter` |
 
 ---
 
