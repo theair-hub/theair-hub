@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 Currently working on (1) [BLOOM - Open Science](https://github.com/open-sci/2025-2026), (2) [OpenCitations](https://github.com/theair-hub/oc_internship), (3) [OpenOrtis Digital Edition](https://github.com/theair-hub/OpenOrtis)
+- 🔭 Currently working on (1) [BLOOM - Open Science](https://github.com/open-sci/2025-2026), (2) [OrtisLetters Digital Edition](https://github.com/theair-hub/OrtisLetters)
 - 👩‍💻 My portfolio: [theairhub.my.canva.site](https://theairhub.my.canva.site/)
 
 ---
@@ -38,7 +38,7 @@
 | 06 | [**ChessQuest**](https://github.com/theair-hub/ChessQuest) | Data visualisation of personal chess data via the chess.com API | `Python` `Jupyter` |
 | 07 | [**RhAPPsody**](https://github.com/3Graces/RhAPPsody) | Interactive app prototype for a music museum | `Figma` `ProtoPie` |
 | 07 | [**BLOOM**](https://github.com/open-sci/2025-2026) | A curated dataset of citations made to explore and analyse disciplinary flows across universities | `Python` `Jupyter` |
-
+| 08 | [**OrtisLetters**](https://github.com/theair-hub/OrtisLetters) | The prototype of a Digital Edition for Ugo Foscolo's "Ultime Lettere di Jacopo Ortis" | `HTML` `CSS` `JS` `XML/TEI` `XSLT` |
 ---
 
 ## 🛠️ Languages & Tools
